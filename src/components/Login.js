@@ -40,9 +40,6 @@ const [isSignInForm,setIsSignInForm] = useState(true);
 
 </form>
 
-
-
-
 </div>
     
     
